@@ -8,12 +8,12 @@
 
 <div align="center"
   
-⨺ Just **a dude**
+⨺ Just **a dude** ⨺
 <div align="center"
   
-⨺ Learning **C++ & Bash**
+⨺ Learning **C++ & Bash** ⨺
 
-⨺ Interested in **CyberSec - Programming**
+⨺ Interested in **CyberSec - Programming** ⨺
       
 <!--
 **Remo-5555/Remo-5555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
