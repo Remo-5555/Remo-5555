@@ -11,7 +11,7 @@
 ⨺ Just **a dude** ⨺
 <div align="center"
   
-⨺ Learning **C++ & Bash** ⨺
+⨺ Learning **a shit ton** ⨺
 
 ⨺ Interested in **CyberSec - Programming** ⨺
       
