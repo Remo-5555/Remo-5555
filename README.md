@@ -1,17 +1,17 @@
-# Hi there, I'm Remo 👋
+# Hi there, I'm Remo 
 
-## 🚀 About Me
+##  About Me
 
 I'm a programmer based in the US. I have a passion for building scalable applications and love to contribute to open-source projects.
 
-- 🔭 I’m currently working on a chatbot
-- 🌱 I’m learning web app development
-- 👯 I’m looking to collaborate on interesting projects
-- 💬 Ask me about theoretical physics
-- 📫 How to reach me: N/A
-- ⚡ Fun fact: I am not that smart
+-  I’m currently working on a chatbot
+-  I’m learning web app development
+-  I’m looking to collaborate on interesting projects
+-  Ask me about theoretical physics
+-  How to reach me: N/A
+-  Fun fact: I am not that smart
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,13 +32,13 @@ I'm a programmer based in the US. I have a passion for building scalable applica
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Remo-5555&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Remo-5555&layout=compact&theme=radical)
 
-## 🏆 Achievements
+##  Achievements
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Remo-5555&theme=radical)
 <!--
