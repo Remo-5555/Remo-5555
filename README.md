@@ -9,7 +9,7 @@ I'm a programmer based in the US. I have a passion for building scalable applica
 -  I’m looking to collaborate on interesting projects
 -  Ask me about theoretical physics
 -  How to reach me: N/A
--  Fun fact: I am not that smart
+-  Fun fact: I work hard to understand the world
 
 ##  Skills & Technologies
 
